@@ -10,5 +10,3 @@ Perfil proativo, organizado e comprometido com a entrega de soluções de qualid
 
 ## 🌱 Atualmente estudando C, Python, Linux
 
-## ⚡ Objetivo
-Construir uma base sólida em desenvolvimento de software, evoluindo gradualmente para atuar como desenvolvedor.
