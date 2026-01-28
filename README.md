@@ -18,4 +18,4 @@ Sou uma pessoa proativa, comprometida e com facilidade para aprender novas tecno
 - Git e GitHub  
 
 ## 🎯 Objetivo
-Aprimorar minhas habilidades técnicas e adquirir experiência prática na área de desenvolvimento de software, com foco em oportunidades de estágio ou posição júnior.
+Aprimorar minhas habilidades técnicas e adquirir experiência prática na área de desenvolvimento de software, com foco em oportunidades de estágio.
